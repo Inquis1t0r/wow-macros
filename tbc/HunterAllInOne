@@ -1,0 +1,5 @@
+#showtooltip Steady Shot 
+/script UIErrorsFrame:Hide()
+/cast [exist,target=pettarget] Kill Command
+/castsequence reset=#Steady Shot, !Auto Shot
+/script UIErrorsFrame:Clear();
