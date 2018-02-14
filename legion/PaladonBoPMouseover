@@ -1,0 +1,3 @@
+#showtooltip Blessing of Protection
+/stopcasting
+/cast [@mouseover] Blessing of Protection
