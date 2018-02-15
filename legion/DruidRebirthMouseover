@@ -1,0 +1,2 @@
+#showtooltip Rebirth
+/cast [@mouseover,help]Rebirth;Rebirth
