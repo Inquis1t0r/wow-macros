@@ -1,0 +1,9 @@
+#showtooltip Steady Shot
+/script UIErrorsFrame:Hide()
+/cast [exists,target=pettarget] Kill Command
+/castsequence reset=2.18 Steady Shot, !Auto Shot //atk speed + 0.1 
+/script UIErrorsFrame:Clear(); UIErrorsFrame:Show()
+
+//optional
+/petattack
+/cast[pet:wind serpent] Lightening Breath
