@@ -1,0 +1,2 @@
+/script CastSpellByName("Immolate"); PetAttack();
+
