@@ -1,0 +1,3 @@
+#showtooltip
+/cast Drain Soul(Rank 1)
+/run PickupContainerItem(4,GetContainerNumSlots(4)) DeleteCursorItem()
