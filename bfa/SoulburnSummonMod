@@ -1,0 +1,3 @@
+#showtooltip Summon PetTypeHere
+/cast Soulburn
+/cast [nomod] Summon Succubus ; [mod:alt] Summon Felhunter ; [mod:ctrl] Felguard ; [mod:shift] Summon Imp
