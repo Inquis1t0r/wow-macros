@@ -1,0 +1,3 @@
+#showtooltip Incinerate
+/cast [@pettarget,exists] Firebolt
+/cast Incinerate
