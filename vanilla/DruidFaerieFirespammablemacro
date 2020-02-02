@@ -1,0 +1,1 @@
+/run m=0 for i=1,40 do if(strfind(tostring(UnitDebuff("target",i)),"Spell_Nature_FaerieFire"))then m=1 end end if m==0 then CastSpellByName("Faerie Fire(Rank 4)") end
