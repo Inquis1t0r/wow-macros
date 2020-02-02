@@ -1,0 +1,1 @@
+/run n=0 for i=1,40 do if(strfind(tostring(UnitBuff("target",i)),"Spell_Nature_Lightning"))then n=1 end end if n==0 then CastSpellByName("Innervate")end
