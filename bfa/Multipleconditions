@@ -1,0 +1,3 @@
+#showtooltip
+/stopmacro [channeling:CHANNELING SPELL]
+/cast [mod:alt,@player] [@mouseover,help,nodead] [help] [@targettarget,help,nodead] [] SPELL
