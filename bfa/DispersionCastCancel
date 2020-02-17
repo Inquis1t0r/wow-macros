@@ -1,0 +1,4 @@
+#showtooltip
+/cancelaura [btn:2] Dispersion
+/cast Dispersion
+
