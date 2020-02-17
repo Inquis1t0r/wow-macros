@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mod:alt,player] [@cursor,combat] [] SPELL
+
