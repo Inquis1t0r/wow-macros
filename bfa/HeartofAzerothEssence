@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,exists,nodead] [@cursor,combat] [] Heart Essence
+
