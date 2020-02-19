@@ -1,0 +1,3 @@
+#showtooltip Mind Freeze
+/use [nomod] Mind Freeze
+/use [mod:shift, @focus] Mind Freeze
