@@ -1,0 +1,3 @@
+#showtooltip Leap
+/use [modifier:alt, @focus] Gnaw
+/use [nomodifier, @focus] Leap
