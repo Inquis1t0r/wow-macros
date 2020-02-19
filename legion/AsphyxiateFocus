@@ -1,0 +1,3 @@
+#showtooltip Asphyxiate
+/use [nomod] Asphyxiate
+/use [mod:shift, @focus] Asphyxiate
