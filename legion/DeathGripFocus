@@ -1,0 +1,3 @@
+#showtooltip Death Grip
+/use [nomod] Death Grip
+/use [mod:shift, @focus] Death Grip
