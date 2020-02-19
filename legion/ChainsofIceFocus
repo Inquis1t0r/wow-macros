@@ -1,0 +1,3 @@
+#showtooltip Chains of ice
+/use [nomod] Chains of Ice
+/use [mod:shift, @focus] Chains of Ice
