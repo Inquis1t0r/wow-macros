@@ -1,0 +1,4 @@
+/use [nomod] Scourge Strike
+/use [mod:shift] Leap
+/use [mod:alt, @focus] Leap
+/use [mod:alt, @focus] Gnaw
