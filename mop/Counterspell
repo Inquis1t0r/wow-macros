@@ -1,0 +1,3 @@
+#showtooltip
+/stopcasting
+/cast [@focus,exists][@target] Counterspell
