@@ -1,0 +1,1 @@
+/run UnitSetRole("name", "role")
