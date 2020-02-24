@@ -1,0 +1,4 @@
+/castsequence [nochanneling] reset=target/3 0,Mind Sear
+/castsequence [nochanneling] reset=0.2 Halo
+/cast [combat] Shadowfiend
+/startattack [combat]
