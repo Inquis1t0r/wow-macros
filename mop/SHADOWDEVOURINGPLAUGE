@@ -1,0 +1,2 @@
+/castsequence reset=combat/target Devouring Plague,null
+/castsequence [combat] reset=0.5 Mind Flay
