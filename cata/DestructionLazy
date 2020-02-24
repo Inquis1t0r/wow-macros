@@ -1,0 +1,6 @@
+/castsequence [mod]Conflagrate;reset=target Curse of the Elements,Bane of Doom,null
+/castsequence reset=target Soul Fire,Immolate,Corruption,Soul Fire,Chaos Bolt,Incinerate
+/castsequence reset=60 Soulburn,Demon Soul
+/cast Shadowburn
+/use 13
+/use 14
