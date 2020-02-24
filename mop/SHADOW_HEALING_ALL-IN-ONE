@@ -1,0 +1,6 @@
+#showtooltip Power Word: Shield
+/target mouseover
+/castsequence reset=10/combat/target Power Word: Shield,Renew,null
+/castsequence reset=0.3 0,0,Flash Heal
+/castsequence reset=0.3 0,Prayer of Mending
+/castsequence reset=0.3 Power Word: Shield
