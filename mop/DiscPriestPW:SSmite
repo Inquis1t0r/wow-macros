@@ -1,0 +1,6 @@
+/castsequence reset=10 Power Word: Shield,null
+/castsequence reset=0.3 0,0,0,Power Word: Solace
+/castsequence reset=0.3 0,0,Prayer of Mending
+/castsequence reset=0.3 0,Divine Star
+/castsequence Smite
+/castsequence Power Word: Shield
