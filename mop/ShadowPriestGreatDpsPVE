@@ -1,0 +1,12 @@
+/cast [nostance] Shadowform
+/targetenemy [noharm]
+/castsequence [nomod] reset=0.2 0,0,Mind Blast
+/castsequence [nomod] reset=0.2 0,Shadow Word: Death
+/castsequence [mod:ctrl, combat, nochanneling] reset=3 Devouring Plague, Mind Flay, Mind Flay
+/castsequence [nomod, nochanneling] reset=target/3 Shadow Word: Pain, Vampiric Touch,Devouring Plague, Mind Flay, Mind Flay, Mind Flay
+/cast [nomod, combat] Vampiric Embrace
+/cast [nomod, combat] Shadowfiend
+/cast [nomod] Fear Ward
+/use 10
+/use 13
+/use 14
