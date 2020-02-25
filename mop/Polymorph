@@ -1,0 +1,5 @@
+#showtooltip Polymorph
+/clearfocus [modifier:alt]
+/focus [@focus,noexists]
+/cast [@focus,exists][@target,exists] Polymorph
+/y Casting Polymorph on %F
