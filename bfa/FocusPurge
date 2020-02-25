@@ -1,0 +1,2 @@
+#showtooltip Consume Magic
+/cast [@focus,harm,nodead][] Consume Magic
