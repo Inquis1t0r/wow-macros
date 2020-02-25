@@ -1,0 +1,2 @@
+#showtooltip Torment
+/cast [@mouseover,harm,nodead][]Torment
