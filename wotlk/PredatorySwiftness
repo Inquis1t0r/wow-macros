@@ -1,0 +1,6 @@
+#showtooltip
+/use [mod:alt]Regrowth
+/console autounshift 0
+/use [@mouseover,help][@target,help][@player]Regrowth
+/console autounshift 1
+/run UIErrorsFrame:Clear() If you're like me and spam your spell buttons: this will cast Regrowth ONLY if you have the Predatory Swiftness proc.
