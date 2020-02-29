@@ -1,0 +1,4 @@
+#showtooltip
+/cancelaura Ghost Wolf
+/cancelaura Dire Wolf
+/cast [@mouseover, help, nodead][mod:shift] Cure Poison; [@mouseover, help, nodead][mod:ctrl] Cure Disease;[@mouseover, help, nodead][] Purge;
