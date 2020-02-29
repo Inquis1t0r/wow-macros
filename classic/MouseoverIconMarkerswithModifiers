@@ -1,0 +1,3 @@
+/run if IsShiftKeyDown()then SetRaidTarget("mouseover",7) end
+/run if IsControlKeyDown()then SetRaidTarget("mouseover",5) end
+/run if not IsShiftKeyDown() and not IsControlKeyDown()then SetRaidTarget("mouseover",8) end
