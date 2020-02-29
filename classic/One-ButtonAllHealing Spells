@@ -1,0 +1,4 @@
+#showtooltip
+/cancelaura Ghost Wolf
+/cancelaura Dire Wolf
+/cast [mod:shift, @mouseover, help, nodead][mod:shift] Lesser Healing Wave;[@mouseover, help, nodead][mod:alt] Chain Heal; [@mouseover, help, nodead][] Healing Wave
