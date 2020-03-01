@@ -1,0 +1,2 @@
+/e rolls a pair of dice.
+/run C_Timer.After(1, function() SendChatMessage("rolls a "..random(1,6).." and a "..random(1,6)..".", "emote") end)
