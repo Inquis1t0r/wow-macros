@@ -1,0 +1,1 @@
+/run local r,p=GetPlayerFacing(),math.pi local x,y=(r<3/8*p or r>13/8*p) and "north" or (r<11/8*p and r>5/8*p) and "south" or "",(r<7/4*p and r>5/4*p) and "east" or (r<3/4*p and r>1/4*p) and "west" or "" SendChatMessage("’s compass points "..x..y,"emote")
