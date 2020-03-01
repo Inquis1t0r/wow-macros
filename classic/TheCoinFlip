@@ -1,0 +1,3 @@
+/point
+/e casually flips a gold coin.
+/run C_Timer.After(1, function() SendChatMessage(GetRandomArgument("catches the coin face up, heads.","catches the coin facedown, tails."),"emote") end)
