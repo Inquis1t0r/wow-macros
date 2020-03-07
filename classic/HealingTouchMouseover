@@ -1,0 +1,5 @@
+#showtooltip Healing Touch
+/dismount
+/cancelform
+/stand
+/use [@mouseover,help,nodead][@target,help,nodead][@targettarget,help,nodead][@player]Healing Touch
