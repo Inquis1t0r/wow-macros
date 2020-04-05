@@ -1,0 +1,4 @@
+#showtooltip Cyclone
+/stopcasting
+/cast [target=mouseover,exists] Cyclone
+/cast Cyclone
