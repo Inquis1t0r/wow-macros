@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mod:shift,@mouseover,exists]Kick
+/cast [mod:shift,@focus]Kick;Kick;
