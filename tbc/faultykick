@@ -1,0 +1,4 @@
+#showtooltip Kick(Rank 5)
+/cast [mod:shift][target=mouseover][exist] Kick(Rank 5)
+/cast [mod:shift][target=focus][exist] Kick(Rank 5)
+/cast [nomod] Kick(Rank 5)
