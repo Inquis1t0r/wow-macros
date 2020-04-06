@@ -1,0 +1,2 @@
+#showtooltip
+/cast [mod:shift,target=focus][mod:shift,target=mouseover,harm,exists][nomod] Kick;
