@@ -1,0 +1,3 @@
+#showtooltip
+/petattack [target=pettarget,noexists]
+/petfollow [target=pettarget,exists]
