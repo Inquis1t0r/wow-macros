@@ -1,0 +1,1 @@
+/cast [pet:felhunter, modifier:shift] devour magic; [pet:felhunter] spell lock; [pet:imp, target=player] singe magic
