@@ -1,0 +1,3 @@
+#showtooltip
+/castsequence  [nomodifier, target=player] Demon Armor, Soul Link, Flask of Enhancement
+/castsequence [modifier:alt] Ritual of Souls
