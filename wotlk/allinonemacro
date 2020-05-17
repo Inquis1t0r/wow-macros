@@ -1,0 +1,6 @@
+#showtooltip Soul Harvest
+/use [nomod] Healthstone;
+/cast [mod:shift] Create Healthstone;
+/cast [mod:alt] Ritual of Souls;
+/cast [button:2] Ritual of Summoning;
+/cast [mod:ctrl] Soul Harvest
