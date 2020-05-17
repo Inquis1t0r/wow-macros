@@ -1,0 +1,2 @@
+#showtooltip
+/cast [mod:shift,target=focus,pet:felhunter]Spell Lock;[pet:felhunter]Spell Lock; [mod:shift,target=focus,pet:felguard]Axe Toss;[pet:felguard]Axe Toss; [mod:shift,target=focus,pet:succubus] Seduction;[pet:succubus]Seduction; [pet:imp]Flee
