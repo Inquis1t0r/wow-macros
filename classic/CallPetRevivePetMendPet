@@ -1,0 +1,4 @@
+#showtooltip Call Pet
+/cast [nopet] Call Pet
+/cast [@pet, dead] Revive Pet
+/cast [@pet] Mend Pet
