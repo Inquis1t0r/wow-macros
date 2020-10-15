@@ -1,0 +1,6 @@
+#showtooltip
+/petpassive
+/cast [nomod] Freezing Trap
+/cast [mod:alt] Frost Trap
+/cast [mod:shift] Explosive Trap
+/cast [mod:ctrl] Immolation Trap
