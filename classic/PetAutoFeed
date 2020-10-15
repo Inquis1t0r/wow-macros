@@ -1,0 +1,3 @@
+#showtooltip Feed Pet
+/cast [pet, nodead] Feed Pet
+/use [pet, nodead] Roasted Quail
