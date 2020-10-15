@@ -1,0 +1,4 @@
+#showtooltip Auto Shot
+/cleartarget [dead][help]
+/targetenemy [noexists]
+/cast !Auto Shot
