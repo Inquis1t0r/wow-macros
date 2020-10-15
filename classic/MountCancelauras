@@ -1,0 +1,5 @@
+#showtooltip Reins of the Black War Tiger
+/use Reins of the Black War Tiger
+/cancelaura Flee
+/cancelaura Horde Flag
+/cancelaura Blessing of Protection
