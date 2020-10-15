@@ -1,0 +1,5 @@
+#showtooltip Aimed Shot
+/Cast !Auto Shot
+/Cast Aimed Shot
+/cleartarget
+/targetlasttarget
