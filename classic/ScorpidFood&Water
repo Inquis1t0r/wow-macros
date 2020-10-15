@@ -1,0 +1,5 @@
+#showtooltip Scorpid Sting
+/cast [combat] Scorpid Sting
+/use Conjured Crystal Water
+/use Conjured Sweet Roll
+/use Alterac Manna Biscuit
