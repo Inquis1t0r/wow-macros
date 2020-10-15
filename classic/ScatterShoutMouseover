@@ -1,0 +1,4 @@
+#showtooltip
+/petpassive
+/stopattack
+/cast [@mouseover, harm][] Scatter Shot
