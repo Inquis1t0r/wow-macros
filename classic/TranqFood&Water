@@ -1,0 +1,5 @@
+#showtooltip Tranquilizing Shot
+/cast [combat] Tranquilizing Shot
+/use Conjured Crystal Water
+/use Conjured Sweet Roll
+/use Alterac Manna Biscuit
