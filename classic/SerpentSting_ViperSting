@@ -1,0 +1,6 @@
+#showtooltip
+#showtooltip
+/cleartarget [dead][help]
+/cast [nomod] Serpent Sting
+/cast [mod:alt] Viper Sting
+/cast !Auto Shot
