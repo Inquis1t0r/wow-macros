@@ -1,0 +1,3 @@
+#showtooltip Shadowmeld
+/cast [nostealth] Shadowmeld
+/cast Prowl(Rank 1)
