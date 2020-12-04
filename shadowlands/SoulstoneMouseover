@@ -1,0 +1,2 @@
+#showtooltip Soulstone
+/cast [@mouseover,help] [help] Soulstone
