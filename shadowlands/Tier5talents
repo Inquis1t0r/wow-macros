@@ -1,0 +1,2 @@
+#showtooltip
+/use [talent:5/2,@mouseover,exists] Mortal Coil; [talent:5/2] Mortal Coil; [talent:5/3] Howl of Terror
