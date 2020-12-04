@@ -1,0 +1,7 @@
+#showtooltip
+/cast [@mouseover,exists,pet:felhunter][@target,pet:felhunter]Spell Lock; 
+[@mouseover,exists,pet:succubus][@target,pet:succubus]Seduction
+
+#showtooltip
+/cast [pet:Voidwalker] Sacrifice; [pet:imp] Fire shield; [pet:succubus,@mouseover,exists,nodead]
+[pet:succubus,@target] Seduction; [pet:felhunter,@mouseover,exists,nodead][pet:felhunter,@target] Devour Magic;
