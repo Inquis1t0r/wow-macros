@@ -1,0 +1,1 @@
+/run local o,b,r="InterfaceOptionsActionBarsPanel", "Bottom","Right" local a={_G[o..b..r],_G[o..r], _G[o..r.."Two"]} local b=not a[1]:GetChecked() for i=1, #a do a[i]:SetChecked(b)a[i]:GetScript("OnClick")(a[i]) end
