@@ -1,0 +1,3 @@
+#showtooltip 
+/cast [nopet] Raise Dead 
+/cast [mod:alt, @focus] Gnaw; Gnaw
