@@ -1,0 +1,4 @@
+#showtooltip
+/cast [spec:3, talent:7/2] Unholy Frenzy; [spec:3, talent:7/3] Summon Gargoyle
+/cast [spec:2] Empower Rune Weapon
+/cast [spec:1] Dancing Rune Weapon
