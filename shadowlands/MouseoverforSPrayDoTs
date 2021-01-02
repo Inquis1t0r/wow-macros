@@ -1,0 +1,5 @@
+#showtooltip Shadow Word: Pain
+/cast [@mouseover] Shadow Word: Pain
+
+#showtooltip Vampiric Touch
+/cast [@mouseover] Vampiric Touch
