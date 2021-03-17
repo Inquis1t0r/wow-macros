@@ -1,0 +1,5 @@
+#showtooltip Wild Spirits
+/use [@cursor]Wild Spirits
+
+#showtooltip Resonating Arrow
+/use [@cursor]Resonating Arrow
