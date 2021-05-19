@@ -1,0 +1,5 @@
+#showtooltip
+/cleartarget [dead]
+/targetenemy [noharm]
+/stopattack
+/cast !Auto Shot
