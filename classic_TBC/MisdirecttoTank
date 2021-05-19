@@ -1,0 +1,4 @@
+/target <raid member>
+/cast Misdirection
+/targetlasttarget
+/cast Aimed Shot
