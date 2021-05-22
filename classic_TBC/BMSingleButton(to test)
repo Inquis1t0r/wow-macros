@@ -1,0 +1,5 @@
+#showtooltip Steady Shot
+/run UIErrorsFrame:Hide()
+/castsequence reset=2.52 Steady Shot, !Auto Shot
+/use [exists,target=pettarget] Kill Command
+/run UIErrorsFrame:Clear(); UIErrorsFrame:Show()
