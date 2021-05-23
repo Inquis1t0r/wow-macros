@@ -1,0 +1,8 @@
+/cast [@pet,dead][mod:shift] Revive Pet
+/cast [nopet,nomod] Call Pet 1
+/clearfocus [@focus,dead]
+/focus [@focus,exists]player;target
+/clearfocus [@focus,noharm]
+/petattack [@focus,exists]
+/petfollow [@focus,noexists]
+/cast Hunter's Mark
