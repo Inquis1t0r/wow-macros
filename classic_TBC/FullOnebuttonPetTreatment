@@ -1,0 +1,7 @@
+#show [modifier:alt] Mutton Chop
+/cast [nopet] Call Pet
+/cast [@pet,dead][mod:shift] Revive Pet
+/cast [pet,nomod,button:1] Mend Pet
+/cast [pet,nomod,button:2] Dismiss Pet
+/cast [pet,mod:alt] Feed Pet
+/use [pet,mod:alt] <food item>
