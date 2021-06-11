@@ -1,0 +1,2 @@
+#showtooltip Remove Corruption
+/cast [target=mouseover,help,nodead][target=target] Remove Corruption
