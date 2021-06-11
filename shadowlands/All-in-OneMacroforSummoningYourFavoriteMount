@@ -1,0 +1,2 @@
+#showtooltip your favorite mount
+/run local zone_name = GetRealZoneText(); if zone_name == "The Maw" then C_MountJournal.SummonByID(1442) else C_MountJournal.SummonByID(0) end 
