@@ -1,0 +1,3 @@
+#showtooltip
+/cast [harm,nodead][@target,harm,nodead]Moonfire
+/cast [help,nodead][@target,help,nodead]Rejuvenation
