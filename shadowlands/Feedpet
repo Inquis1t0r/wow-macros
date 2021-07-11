@@ -1,0 +1,5 @@
+#show Clefthoof Ribs
+/cast [modifier:ctrl] Dismiss Pet;[nopet,modifier:alt][target=pet,dead]Revive Pet;[nopet]Call Pet;[combat][modifier:alt]Mend Pet
+/stopmacro [combat][nopet][modifier][target=pet,dead]
+/cast Feed Pet
+/use Clefthoof Ribs
