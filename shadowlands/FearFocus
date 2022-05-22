@@ -1,0 +1,2 @@
+#showtooltip Fear
+/cast [mod:shift,@focus] Fear; Fear;
