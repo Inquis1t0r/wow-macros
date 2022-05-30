@@ -1,0 +1,2 @@
+#showtooltip Chain Heal
+/cast [@mouseover , exists] Chain Heal; Chain Heal
