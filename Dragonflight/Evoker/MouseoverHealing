@@ -1,0 +1,2 @@
+#showtooltip
+/cast [@mouseover,help] [spell=364343]; [spell=364343]
