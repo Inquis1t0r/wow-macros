@@ -1,0 +1,1 @@
+/run local b=ProfessionsFrame.SpecPage.DetailedView.SpendPointsButton for i=1,50 do if not b:IsEnabled() then break end b:Click() end
